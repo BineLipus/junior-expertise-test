@@ -1,0 +1,2802 @@
+[
+	{
+		"id": "d7fc5c61-ac15-48ca-9b14-f3d8f55b1946",
+		"playerName": "Clodomir Hairyfoot",
+		"powerLevel": 1,
+		"rank": 7,
+		"hero": {
+			"id": "0192a218-7a7d-456c-bd49-d06a8a69b762",
+			"level": 31,
+			"name": "Hal"
+		},
+		"champions": [
+			{
+				"id": "89a3d899-7aba-49de-993b-dcd1fa58345e",
+				"level": 1,
+				"name": "Marfer"
+			},
+			{
+				"id": "e3ee86be-d566-4c6d-ab04-39cbcff487df",
+				"level": 2,
+				"name": "Hampe"
+			},
+			{
+				"id": "2e521a1e-2bd0-4dae-a6dd-96159e599d3e",
+				"level": 3,
+				"name": "Maxhere"
+			}
+		]
+	},
+	{
+		"id": "f4afb2fd-b4b9-41fe-ab7c-55059870e78a",
+		"playerName": "Vedast Swiftfoot",
+		"powerLevel": 2,
+		"rank": 14,
+		"hero": {
+			"id": "ea243b0a-f225-4835-907e-887d5f202a23",
+			"level": 44,
+			"name": "Sephven"
+		},
+		"champions": [
+			{
+				"id": "d8cf1f81-2835-4e23-9ca9-3e6dfe532f0c",
+				"level": 1,
+				"name": "Hal"
+			},
+			{
+				"id": "8ffecd14-a2ec-4150-bc7b-dbb6271910b6",
+				"level": 2,
+				"name": "Terwise"
+			},
+			{
+				"id": "477c3f01-fde4-4c80-9ff0-98229af45cb2",
+				"level": 3,
+				"name": "Leofty"
+			}
+		]
+	},
+	{
+		"id": "b983c3aa-0c72-4b4a-a319-a89eede107c1",
+		"playerName": "Adalbert Hopesinger",
+		"powerLevel": 3,
+		"rank": 21,
+		"hero": {
+			"id": "376cf96b-0874-463a-af6a-e8aaed21f7ef",
+			"level": 42,
+			"name": "Jackwig"
+		},
+		"champions": [
+			{
+				"id": "f5b7cbe3-d2c3-4f50-ac80-d28d19a2c699",
+				"level": 1,
+				"name": "Waruan"
+			},
+			{
+				"id": "16a8019b-a256-4427-8464-64ab95a1b0ad",
+				"level": 2,
+				"name": "Hampe"
+			},
+			{
+				"id": "a52d8782-2d3e-459e-adb1-75a5d29e2a7e",
+				"level": 3,
+				"name": "Tinechael"
+			}
+		]
+	},
+	{
+		"id": "e715d094-5307-4769-abb1-3940bc1984c5",
+		"playerName": "Gomatrudis Took-Took",
+		"powerLevel": 4,
+		"rank": 28,
+		"hero": {
+			"id": "4a89e299-94c5-48e6-8fcc-14a70e1b4925",
+			"level": 46,
+			"name": "Kachell"
+		},
+		"champions": [
+			{
+				"id": "9d2b2a57-87b4-4c5f-b929-e6f46b802e5c",
+				"level": 1,
+				"name": "Car"
+			},
+			{
+				"id": "0a482568-f8bc-4d68-a4a1-129eb3a748bb",
+				"level": 2,
+				"name": "Kachell"
+			},
+			{
+				"id": "1968108d-b07b-4745-821b-c57cf255dc4b",
+				"level": 3,
+				"name": "Lacsere"
+			}
+		]
+	},
+	{
+		"id": "a4619b6f-9753-4e0f-b2f4-4f7d7d61db8e",
+		"playerName": "Nob Took-Took",
+		"powerLevel": 5,
+		"rank": 35,
+		"hero": {
+			"id": "8485fec3-6ea8-49be-809c-d62efb868161",
+			"level": 9,
+			"name": "Venpe"
+		},
+		"champions": [
+			{
+				"id": "74dfb4c8-db66-4f2e-b3d2-26edb35d8eb8",
+				"level": 1,
+				"name": "Rienas"
+			},
+			{
+				"id": "545f9d20-474c-410c-bca6-9f75c5d59f74",
+				"level": 2,
+				"name": "Mileofu"
+			},
+			{
+				"id": "9e572d98-0476-4d44-920e-ce8590bd4a90",
+				"level": 3,
+				"name": "Anpher"
+			}
+		]
+	},
+	{
+		"id": "cb4cfdb1-b365-47d4-b1ae-003b6a090d8a",
+		"playerName": "Habaccuc Barrowes",
+		"powerLevel": 6,
+		"rank": 42,
+		"hero": {
+			"id": "c33c800b-79f7-4f77-8ff5-d045d465d0af",
+			"level": 10,
+			"name": "Wenruth"
+		},
+		"champions": [
+			{
+				"id": "4dcfa506-da7f-4b53-bad8-7cb1b77e9cc1",
+				"level": 1,
+				"name": "Lacsere"
+			},
+			{
+				"id": "e7c40f73-33e8-4b78-860e-8da179f00758",
+				"level": 2,
+				"name": "Venmi"
+			},
+			{
+				"id": "ad0e9908-5ac7-4d14-9acc-2e5c7c6df5ac",
+				"level": 3,
+				"name": "Ing"
+			}
+		]
+	},
+	{
+		"id": "df401daa-5435-4992-9ffa-5063dac7b5f6",
+		"playerName": "Ermentrudis Heathertoes",
+		"powerLevel": 7,
+		"rank": 49,
+		"hero": {
+			"id": "ad4290f0-acb3-4c98-a7c7-72f4273d3cb0",
+			"level": 38,
+			"name": "Nasara"
+		},
+		"champions": [
+			{
+				"id": "993d675c-60f0-4673-8f33-4227c8d3590a",
+				"level": 1,
+				"name": "Leofty"
+			},
+			{
+				"id": "81eef844-2a90-4805-9f5a-523f670240d3",
+				"level": 2,
+				"name": "Venmi"
+			},
+			{
+				"id": "1892a856-cd5a-4754-b562-6993f34116ee",
+				"level": 3,
+				"name": "Hal"
+			}
+		]
+	},
+	{
+		"id": "ff5e4ec0-23d1-40d6-af84-2a0b0a0fed14",
+		"playerName": "Godun Goold",
+		"powerLevel": 8,
+		"rank": 56,
+		"hero": {
+			"id": "d2316021-6d2c-415f-935b-b463ee709348",
+			"level": 32,
+			"name": "Joan'wald"
+		},
+		"champions": [
+			{
+				"id": "ae169037-f895-41fd-813d-31cc42df98f2",
+				"level": 1,
+				"name": "Rocnan"
+			},
+			{
+				"id": "fcb39eb2-8531-4a1f-8eb6-bbc9f1bddd78",
+				"level": 2,
+				"name": "Rocnan"
+			},
+			{
+				"id": "95c6b5b7-40fa-4121-a0b3-fc072de4f90e",
+				"level": 3,
+				"name": "Ca'su"
+			}
+		]
+	},
+	{
+		"id": "72a87026-d640-4910-a1e4-0f5791f4736f",
+		"playerName": "Smeagol Cutton",
+		"powerLevel": 9,
+		"rank": 63,
+		"hero": {
+			"id": "8468961a-59f0-4f90-aeaf-54ed1be63d92",
+			"level": 29,
+			"name": "Serebeorth"
+		},
+		"champions": [
+			{
+				"id": "f8f4c03a-f9ff-4961-a78e-490e37b5deaa",
+				"level": 1,
+				"name": "Liammann"
+			},
+			{
+				"id": "07682a3b-62da-4894-81aa-a42ccc9b5107",
+				"level": 2,
+				"name": "Vidu"
+			},
+			{
+				"id": "387055c7-c39b-43f1-91b4-5141b33fb583",
+				"level": 3,
+				"name": "Ordjen"
+			}
+		]
+	},
+	{
+		"id": "ac5aff29-4bd0-4ea2-aeb4-bb5843a48f70",
+		"playerName": "Mattalic Proudmead",
+		"powerLevel": 10,
+		"rank": 70,
+		"hero": {
+			"id": "6bb46d47-46d8-40c2-8db9-8e823b2d275f",
+			"level": 34,
+			"name": "Sephven"
+		},
+		"champions": [
+			{
+				"id": "26ed6cb7-4642-4f62-a8b7-e7335f6af77c",
+				"level": 1,
+				"name": "Lesmeri"
+			},
+			{
+				"id": "3c3e942f-294c-4940-9532-26034d9343bd",
+				"level": 2,
+				"name": "Edbeo"
+			},
+			{
+				"id": "d7139647-7c6e-4d01-888a-6aa77f31c105",
+				"level": 3,
+				"name": "Maxhere"
+			}
+		]
+	},
+	{
+		"id": "fc532260-f460-46cf-aeba-8841bd3ce7a2",
+		"playerName": "Lothar Chubb",
+		"powerLevel": 11,
+		"rank": 77,
+		"hero": {
+			"id": "067ea5e9-d4a8-4916-a289-452833a8fb57",
+			"level": 41,
+			"name": "Anpher"
+		},
+		"champions": [
+			{
+				"id": "d0dbe484-e2d2-4f5c-a835-539291e25ef2",
+				"level": 1,
+				"name": "Terwise"
+			},
+			{
+				"id": "a9e3df42-46c8-430f-8ffb-a71b785f07b1",
+				"level": 2,
+				"name": "Tolric"
+			},
+			{
+				"id": "a36248f2-0a7c-4f0a-8d4e-b5dab05bf532",
+				"level": 3,
+				"name": "Liammann"
+			}
+		]
+	},
+	{
+		"id": "e0a3de1f-806a-4213-a253-f309162400af",
+		"playerName": "Reginar North-took",
+		"powerLevel": 12,
+		"rank": 84,
+		"hero": {
+			"id": "e78502d3-efc4-48a3-8d05-6c84e7c9dafd",
+			"level": 9,
+			"name": "Lasmen"
+		},
+		"champions": [
+			{
+				"id": "46de6007-0947-4142-bda8-bbae5449c841",
+				"level": 1,
+				"name": "Tinechael"
+			},
+			{
+				"id": "09b997a7-1ad2-4c46-8690-1ea0b4259731",
+				"level": 2,
+				"name": "Laytho"
+			},
+			{
+				"id": "a1ec8298-c01e-490f-a3ae-5246e69560c4",
+				"level": 3,
+				"name": "Terga"
+			}
+		]
+	},
+	{
+		"id": "68237588-36ee-46fb-a6a6-975fbaaeb03a",
+		"playerName": "Fredegunde Finnagund",
+		"powerLevel": 13,
+		"rank": 91,
+		"hero": {
+			"id": "f3c809df-e0c5-4e5d-b042-e19ba7b47ec7",
+			"level": 33,
+			"name": "Maxhere"
+		},
+		"champions": [
+			{
+				"id": "60aea9a8-1baa-457b-a91c-3a182f0947db",
+				"level": 1,
+				"name": "Venmi"
+			},
+			{
+				"id": "1306589b-ad82-4316-b0c9-d094ed07bb78",
+				"level": 2,
+				"name": "Laytho"
+			},
+			{
+				"id": "c9fb0587-89da-454d-ac8b-4ac2bdca6058",
+				"level": 3,
+				"name": "Hessean"
+			}
+		]
+	},
+	{
+		"id": "969f04e4-0905-49b1-b484-38aa1b706bd0",
+		"playerName": "Nora Burrowes",
+		"powerLevel": 14,
+		"rank": 98,
+		"hero": {
+			"id": "9af7e52b-0abf-4f76-b16d-0b921620a6ad",
+			"level": 23,
+			"name": "Edbeo"
+		},
+		"champions": [
+			{
+				"id": "a70d9806-8ffe-4d7e-8acd-1e99935c72d3",
+				"level": 1,
+				"name": "Serebeorth"
+			},
+			{
+				"id": "6574d640-d409-4782-bbf0-98c12af6fc65",
+				"level": 2,
+				"name": "Liammann"
+			},
+			{
+				"id": "1ea95a2e-b5f8-4e31-bc9f-22032b28294c",
+				"level": 3,
+				"name": "Tinechael"
+			}
+		]
+	},
+	{
+		"id": "fc853dd1-551e-4a10-9afe-30c327c62e4e",
+		"playerName": "Irmgard Greenhill",
+		"powerLevel": 15,
+		"rank": 105,
+		"hero": {
+			"id": "d1d19ebc-a7e3-4970-921f-b404962389c3",
+			"level": 38,
+			"name": "Edbeo"
+		},
+		"champions": [
+			{
+				"id": "f6b31085-458b-44a4-9bf9-f3ce324d27fa",
+				"level": 1,
+				"name": "Bertba"
+			},
+			{
+				"id": "82ff13ec-e79e-477d-a04b-198643fe64a3",
+				"level": 2,
+				"name": "Jeffsu"
+			},
+			{
+				"id": "1ff55ade-0ed9-4a72-ba8d-4c575d4fc9f9",
+				"level": 3,
+				"name": "Maxhere"
+			}
+		]
+	},
+	{
+		"id": "b3fe5b71-6c9b-4f59-a415-0b2bcd0d67bd",
+		"playerName": "Vedast Swiftfoot",
+		"powerLevel": 16,
+		"rank": 112,
+		"hero": {
+			"id": "bba33b8f-7745-4b40-9196-85a4164f2f8e",
+			"level": 9,
+			"name": "Tyron"
+		},
+		"champions": [
+			{
+				"id": "1c0f03aa-64de-446f-bb3b-359e87904e88",
+				"level": 1,
+				"name": "Wardsa"
+			},
+			{
+				"id": "844c0305-40a6-481c-aff6-c6a6a51e22eb",
+				"level": 2,
+				"name": "Terwise"
+			},
+			{
+				"id": "b8cba6b0-10d7-4b54-a80c-b4b6008333dc",
+				"level": 3,
+				"name": "Ordjen"
+			}
+		]
+	},
+	{
+		"id": "329b0a38-a3bb-40c8-9a03-72f8bd247d57",
+		"playerName": "Irmgard Greenhill",
+		"powerLevel": 17,
+		"rank": 119,
+		"hero": {
+			"id": "34777f3a-fb4e-46d6-849c-d99e87acfdbf",
+			"level": 36,
+			"name": "Maxhere"
+		},
+		"champions": [
+			{
+				"id": "faeb8e0d-5986-4cc3-aa84-85cbf6f2d98a",
+				"level": 1,
+				"name": "Ordjen"
+			},
+			{
+				"id": "ce5c18d0-67a6-4774-a41b-e851e7c70433",
+				"level": 2,
+				"name": "Mondeli"
+			},
+			{
+				"id": "8c615074-2c97-4563-abe3-8583af4fbf08",
+				"level": 3,
+				"name": "Ca'su"
+			}
+		]
+	},
+	{
+		"id": "2f4e84f1-aa5f-4405-ae81-d92cb3aae79f",
+		"playerName": "Notger Noakesburrow",
+		"powerLevel": 18,
+		"rank": 126,
+		"hero": {
+			"id": "fcc37a3c-bb3f-4527-a34f-7a3018b55039",
+			"level": 14,
+			"name": "Venpe"
+		},
+		"champions": [
+			{
+				"id": "22e05297-1aa6-4386-83ed-aa609d479b1e",
+				"level": 1,
+				"name": "Leofty"
+			},
+			{
+				"id": "675b38ef-8b27-45d0-81a2-95332990fbb4",
+				"level": 2,
+				"name": "Tolric"
+			},
+			{
+				"id": "1cf79d96-2a95-44ad-ba5c-f0a9f49cf58a",
+				"level": 3,
+				"name": "Licrow"
+			}
+		]
+	},
+	{
+		"id": "be89a619-cd68-44cb-a2c3-3dd93ea5f679",
+		"playerName": "Nina Cotton",
+		"powerLevel": 19,
+		"rank": 133,
+		"hero": {
+			"id": "3e93ab87-d732-475d-9b9b-91fc9b865fa1",
+			"level": 38,
+			"name": "Rygrim"
+		},
+		"champions": [
+			{
+				"id": "04015391-977a-4c03-8b9f-fc65c63f5d4f",
+				"level": 1,
+				"name": "Tolric"
+			},
+			{
+				"id": "0a90b118-3b7b-44cd-a165-cd68b466417a",
+				"level": 2,
+				"name": "Serewig"
+			},
+			{
+				"id": "c3256024-d31f-4784-ac46-a328bfdd8fe2",
+				"level": 3,
+				"name": "Jo"
+			}
+		]
+	},
+	{
+		"id": "230759ba-d7d2-44b0-9fda-80248e63cb8f",
+		"playerName": "Madelgarde Whitfoot",
+		"powerLevel": 20,
+		"rank": 140,
+		"hero": {
+			"id": "471e27af-27cf-4192-a145-a48e2b98387b",
+			"level": 28,
+			"name": "Iliam"
+		},
+		"champions": [
+			{
+				"id": "cd057fdf-ea74-42e9-b521-7be02b24d607",
+				"level": 1,
+				"name": "Car"
+			},
+			{
+				"id": "c7cbd114-c76d-4d99-a35a-aa718e3e7968",
+				"level": 2,
+				"name": "Terga"
+			},
+			{
+				"id": "f08cd001-e6ee-4212-b46b-5e063631be7a",
+				"level": 3,
+				"name": "Halo"
+			}
+		]
+	},
+	{
+		"id": "030d8933-4977-4bf5-8baf-7f6e6a1b4a83",
+		"playerName": "Radigis Puddlefoot",
+		"powerLevel": 21,
+		"rank": 147,
+		"hero": {
+			"id": "beb55415-38eb-4ecf-9fc7-602c1a1ed17b",
+			"level": 49,
+			"name": "Tinechael"
+		},
+		"champions": [
+			{
+				"id": "47c0c50e-9f15-44c6-a071-2e5e48647db9",
+				"level": 1,
+				"name": "Bertba"
+			},
+			{
+				"id": "70c8aa73-ed6d-4325-9790-bb3858a95296",
+				"level": 2,
+				"name": "Ri"
+			},
+			{
+				"id": "4c200f1e-2d77-4288-a130-03875e8303b9",
+				"level": 3,
+				"name": "Vidu"
+			}
+		]
+	},
+	{
+		"id": "41121fb6-4851-4b69-a2d7-0310620f41ad",
+		"playerName": "Adaltrude Cutton",
+		"powerLevel": 22,
+		"rank": 154,
+		"hero": {
+			"id": "66ab4ac2-c8d6-4573-9b57-56dd9dea554e",
+			"level": 41,
+			"name": "Ordjen"
+		},
+		"champions": [
+			{
+				"id": "69fa177e-b01a-4dc6-88ee-7fe2c6d5c26d",
+				"level": 1,
+				"name": "Tyron"
+			},
+			{
+				"id": "ab7c26c2-cc27-42d9-a2b2-b39e9b92fdb3",
+				"level": 2,
+				"name": "Ordjen"
+			},
+			{
+				"id": "1629ff8a-8dc4-4c7e-942a-f6ad6898b4bf",
+				"level": 3,
+				"name": "Orahge"
+			}
+		]
+	},
+	{
+		"id": "6140781e-5481-4bc7-a315-3b9088e38a32",
+		"playerName": "Chlodowig Roper",
+		"powerLevel": 23,
+		"rank": 161,
+		"hero": {
+			"id": "d39ceb77-1317-4184-94dd-30c609a8d9b7",
+			"level": 29,
+			"name": "Ri"
+		},
+		"champions": [
+			{
+				"id": "ee06c1d1-935d-4ba4-ba8b-b41f5add87af",
+				"level": 1,
+				"name": "Jackwig"
+			},
+			{
+				"id": "50f1463e-0468-431f-9638-364a6629386c",
+				"level": 2,
+				"name": "Ing"
+			},
+			{
+				"id": "29e2336c-cba0-4660-b695-fcd6439085fa",
+				"level": 3,
+				"name": "Sephven"
+			}
+		]
+	},
+	{
+		"id": "472e4bc9-af06-4012-a5e2-1790abe02fc5",
+		"playerName": "Gorhendad Featherbottom",
+		"powerLevel": 24,
+		"rank": 168,
+		"hero": {
+			"id": "9139f0fe-ce52-44a2-9c30-fc07f6ee0b11",
+			"level": 9,
+			"name": "Tyron"
+		},
+		"champions": [
+			{
+				"id": "70465ca9-962f-41e5-86ac-aed94305337a",
+				"level": 1,
+				"name": "Jackwig"
+			},
+			{
+				"id": "b691d79c-c3ba-4099-bd5c-8738a146411e",
+				"level": 2,
+				"name": "Sucwen"
+			},
+			{
+				"id": "8a5332aa-5508-444f-a2f5-fc19ae0da06e",
+				"level": 3,
+				"name": "Maxhere"
+			}
+		]
+	},
+	{
+		"id": "0052d13d-6db5-40fe-b46c-9da97e8878c2",
+		"playerName": "Reginar North-took",
+		"powerLevel": 25,
+		"rank": 175,
+		"hero": {
+			"id": "e7ed5e62-af00-4cb0-b322-6b289d59e288",
+			"level": 6,
+			"name": "Maxhere"
+		},
+		"champions": [
+			{
+				"id": "f56361be-437b-435c-9825-d28c1da012b6",
+				"level": 1,
+				"name": "Licrow"
+			},
+			{
+				"id": "b9429245-436a-4967-b0a2-68047afdede6",
+				"level": 2,
+				"name": "Terga"
+			},
+			{
+				"id": "73af91c3-94c5-441f-8cde-f3be6a9d2bf7",
+				"level": 3,
+				"name": "Mondeli"
+			}
+		]
+	},
+	{
+		"id": "9d9c2c88-c60d-44e2-ac46-32742a990785",
+		"playerName": "Tomacca Bophin",
+		"powerLevel": 26,
+		"rank": 182,
+		"hero": {
+			"id": "a819742b-1204-46fc-9073-f1547795b71c",
+			"level": 10,
+			"name": "Licrow"
+		},
+		"champions": [
+			{
+				"id": "554dd0f6-3657-4681-8ffc-1fd36277ab80",
+				"level": 1,
+				"name": "Rygrim"
+			},
+			{
+				"id": "a4964903-7652-4a94-90a1-43cfb6a2d013",
+				"level": 2,
+				"name": "Ri"
+			},
+			{
+				"id": "f1e52248-e1f8-4e2b-812f-ff003d56c020",
+				"level": 3,
+				"name": "Orahge"
+			}
+		]
+	},
+	{
+		"id": "388537d2-86b7-49d8-bf94-3170f7b8c32d",
+		"playerName": "Gomatrudis Took-Took",
+		"powerLevel": 27,
+		"rank": 189,
+		"hero": {
+			"id": "71b54c8b-5f29-43c1-91df-2511a96352f4",
+			"level": 45,
+			"name": "Roycla"
+		},
+		"champions": [
+			{
+				"id": "35610dc7-edf0-4874-8b06-6e2730b02d9e",
+				"level": 1,
+				"name": "Lacsere"
+			},
+			{
+				"id": "11cc2be2-6db0-4e7f-b40f-044980c4221f",
+				"level": 2,
+				"name": "Iliam"
+			},
+			{
+				"id": "2a2fb268-15ea-4c2f-9197-62627804154e",
+				"level": 3,
+				"name": "Tolric"
+			}
+		]
+	},
+	{
+		"id": "f98a26dd-1726-4828-97ba-73070eeac984",
+		"playerName": "Dalfin Farfoot",
+		"powerLevel": 28,
+		"rank": 196,
+		"hero": {
+			"id": "1027cba8-141c-4c77-a6af-b6bc04592dda",
+			"level": 26,
+			"name": "Joan'wald"
+		},
+		"champions": [
+			{
+				"id": "cacdd065-3713-4239-a09d-8d7843d49cca",
+				"level": 1,
+				"name": "Laytho"
+			},
+			{
+				"id": "1f54ac55-f67d-48b0-af5b-2d7feef80ee5",
+				"level": 2,
+				"name": "Merimit"
+			},
+			{
+				"id": "537f5739-c49d-44ec-a341-6c3aaf4461a4",
+				"level": 3,
+				"name": "Mileofu"
+			}
+		]
+	},
+	{
+		"id": "dd9fc19e-ca2e-447a-8f65-cba68ac5006c",
+		"playerName": "Prima Took-Brandybuck",
+		"powerLevel": 29,
+		"rank": 203,
+		"hero": {
+			"id": "a81f2036-c106-482b-9367-991af36d915f",
+			"level": 30,
+			"name": "Thassung"
+		},
+		"champions": [
+			{
+				"id": "05cfb1b8-237c-47f6-a868-789b2f7ee52c",
+				"level": 1,
+				"name": "Sephven"
+			},
+			{
+				"id": "3a60e95e-8d4c-45e5-b819-9b66dee8e34f",
+				"level": 2,
+				"name": "Terga"
+			},
+			{
+				"id": "8884f9c8-c6b3-4a9b-83e6-d237d832a165",
+				"level": 3,
+				"name": "Aldmann"
+			}
+		]
+	},
+	{
+		"id": "864c604a-9a34-45aa-a8f1-d5dfcfb94c33",
+		"playerName": "Trahand Silverstring",
+		"powerLevel": 30,
+		"rank": 210,
+		"hero": {
+			"id": "5c6b3f68-567a-4eb8-a140-f8a18a45d9de",
+			"level": 7,
+			"name": "Waruan"
+		},
+		"champions": [
+			{
+				"id": "8447c724-b1b3-4983-a05d-67c651a00438",
+				"level": 1,
+				"name": "Venpe"
+			},
+			{
+				"id": "108b54c2-4ee5-4914-baec-bbe83078a0b1",
+				"level": 2,
+				"name": "Orahge"
+			},
+			{
+				"id": "e7497911-1a16-4666-9713-73a121c1bc44",
+				"level": 3,
+				"name": "Terwise"
+			}
+		]
+	},
+	{
+		"id": "bea35060-65e4-4aea-beff-6c8d56a0b4b3",
+		"playerName": "Ratold Lothran",
+		"powerLevel": 31,
+		"rank": 217,
+		"hero": {
+			"id": "dd6f36d9-97af-4e9f-b244-3ca87e0786b7",
+			"level": 8,
+			"name": "Thassung"
+		},
+		"champions": [
+			{
+				"id": "c36fea98-dbf1-4c80-9975-07b3382f921d",
+				"level": 1,
+				"name": "Jackwig"
+			},
+			{
+				"id": "a7c9581d-6803-41d8-bc46-1d70bb0a0b1c",
+				"level": 2,
+				"name": "Sephven"
+			},
+			{
+				"id": "75d869fc-42f8-4437-a9eb-406638fc0716",
+				"level": 3,
+				"name": "Vidu"
+			}
+		]
+	},
+	{
+		"id": "803a66e6-f942-4be8-a209-4cada0f93b48",
+		"playerName": "Atula Bunce",
+		"powerLevel": 32,
+		"rank": 224,
+		"hero": {
+			"id": "add2f93e-5c70-4fd3-af76-54e32c5cb3be",
+			"level": 35,
+			"name": "Thassung"
+		},
+		"champions": [
+			{
+				"id": "f289586b-bcbd-4712-b4c2-4f96d09d888d",
+				"level": 1,
+				"name": "Loccwen"
+			},
+			{
+				"id": "9268815e-9e0e-4460-b402-241c3d6bde46",
+				"level": 2,
+				"name": "Orahge"
+			},
+			{
+				"id": "681ed6b0-b6c0-4db6-8d97-6cd9fb802220",
+				"level": 3,
+				"name": "Venpe"
+			}
+		]
+	},
+	{
+		"id": "fa511e8c-f2fb-472b-b208-5757d7af2efd",
+		"playerName": "Ebroin Gardner",
+		"powerLevel": 33,
+		"rank": 231,
+		"hero": {
+			"id": "d3baef5c-f404-42f3-95c7-c9632920f55a",
+			"level": 47,
+			"name": "Tinechael"
+		},
+		"champions": [
+			{
+				"id": "b4c46e59-16ef-43c2-927a-ce05e9b4feb1",
+				"level": 1,
+				"name": "Donni"
+			},
+			{
+				"id": "ab8a8af2-e0fd-43d5-83af-6b1236d3e902",
+				"level": 2,
+				"name": "Edbeo"
+			},
+			{
+				"id": "257e6713-f623-4684-8681-bc89da28375f",
+				"level": 3,
+				"name": "Terwise"
+			}
+		]
+	},
+	{
+		"id": "dc7de901-1cf2-42cd-9021-baf76d649232",
+		"playerName": "Adelard Gamgee",
+		"powerLevel": 34,
+		"rank": 238,
+		"hero": {
+			"id": "eb810eb0-a38c-4ac8-b97b-11fc96a969a1",
+			"level": 2,
+			"name": "Tyron"
+		},
+		"champions": [
+			{
+				"id": "d01cd6ba-c8e4-46cc-be05-a50d50ca6726",
+				"level": 1,
+				"name": "Orahge"
+			},
+			{
+				"id": "e171987b-72d9-4745-8e12-4c990f7292dd",
+				"level": 2,
+				"name": "Hampe"
+			},
+			{
+				"id": "7a4acfe8-d2af-424f-bd6b-d24430c5bf2f",
+				"level": 3,
+				"name": "Vidu"
+			}
+		]
+	},
+	{
+		"id": "e8848c5e-0918-4f52-b002-5f3f44a8121d",
+		"playerName": "Cunegonde Puddlefoot",
+		"powerLevel": 35,
+		"rank": 245,
+		"hero": {
+			"id": "850fc31c-aae2-48e2-a131-1bc58461cb9c",
+			"level": 35,
+			"name": "Car"
+		},
+		"champions": [
+			{
+				"id": "1f23c642-489d-477d-a791-9cf63fbaf391",
+				"level": 1,
+				"name": "Sephven"
+			},
+			{
+				"id": "cc0a052e-001a-4933-b5e8-8f15240e8a16",
+				"level": 2,
+				"name": "Ca'su"
+			},
+			{
+				"id": "946f0b57-3f8d-42f4-9066-41909aff048f",
+				"level": 3,
+				"name": "Ca'su"
+			}
+		]
+	},
+	{
+		"id": "fa33ee81-55bc-4c22-a1cc-0644a53ee856",
+		"playerName": "Clodomir Hairyfoot",
+		"powerLevel": 36,
+		"rank": 252,
+		"hero": {
+			"id": "ce2122f3-5163-4db2-b82e-fdea4196825b",
+			"level": 33,
+			"name": "Jeffsu"
+		},
+		"champions": [
+			{
+				"id": "13d8b75f-a6f9-4e77-82db-0b36c3936c83",
+				"level": 1,
+				"name": "Hessean"
+			},
+			{
+				"id": "dfda1c90-5469-4821-8b54-4cf55ce07e8d",
+				"level": 2,
+				"name": "Timdon"
+			},
+			{
+				"id": "fdcb3ba4-2076-4c2c-8129-775b15393d72",
+				"level": 3,
+				"name": "Wise'regin"
+			}
+		]
+	},
+	{
+		"id": "f58b0bf1-b688-4e6a-927a-addad5e7451e",
+		"playerName": "Chlodowig Roper",
+		"powerLevel": 37,
+		"rank": 259,
+		"hero": {
+			"id": "638c6ecb-4fd9-4232-85ca-f5ceb7bfdfd1",
+			"level": 43,
+			"name": "Loccwen"
+		},
+		"champions": [
+			{
+				"id": "959e345c-b2f9-4880-8f77-60f8d340e98c",
+				"level": 1,
+				"name": "Hessean"
+			},
+			{
+				"id": "54ea4d5f-670e-4ec4-bb5c-23edb1f248ed",
+				"level": 2,
+				"name": "Tolric"
+			},
+			{
+				"id": "3f8a5f6c-6286-43af-be62-ef7fbb0a2ce3",
+				"level": 3,
+				"name": "Hampe"
+			}
+		]
+	},
+	{
+		"id": "75c34c68-a346-490c-ac47-23de27ec2c2f",
+		"playerName": "Radigis Puddlefoot",
+		"powerLevel": 38,
+		"rank": 266,
+		"hero": {
+			"id": "0aa034a8-cd70-4053-85b9-de922f8267ac",
+			"level": 31,
+			"name": "Jeffsu"
+		},
+		"champions": [
+			{
+				"id": "9560070e-ad4e-45eb-8f83-5c4c3eb4149c",
+				"level": 1,
+				"name": "Joan'wald"
+			},
+			{
+				"id": "3c2c986a-915e-4009-aff7-9dd25bef9738",
+				"level": 2,
+				"name": "Nasara"
+			},
+			{
+				"id": "2370fbd5-9be1-4f78-a19d-748042890048",
+				"level": 3,
+				"name": "Nasara"
+			}
+		]
+	},
+	{
+		"id": "f26f38cd-f90e-49cf-83c1-94dacce567d8",
+		"playerName": "Prima Took-Brandybuck",
+		"powerLevel": 39,
+		"rank": 273,
+		"hero": {
+			"id": "5bc13add-7194-4d74-93c6-deb9f0a62924",
+			"level": 25,
+			"name": "Ca'su"
+		},
+		"champions": [
+			{
+				"id": "2f86fdd3-6fdd-49b7-b5ce-1420df8c1cdf",
+				"level": 1,
+				"name": "Fortinceo"
+			},
+			{
+				"id": "c300d27d-ba6f-43a3-aa3d-de49778933af",
+				"level": 2,
+				"name": "Bertba"
+			},
+			{
+				"id": "193af1d2-cfa8-4f10-b1d2-1d2ed6cce73d",
+				"level": 3,
+				"name": "Nasara"
+			}
+		]
+	},
+	{
+		"id": "ed2f1194-733a-4b69-a7b9-8695ae90ad7b",
+		"playerName": "Roderic Boulderhill",
+		"powerLevel": 40,
+		"rank": 280,
+		"hero": {
+			"id": "3c077e9d-3f65-45b8-bb64-84d7eddbe75b",
+			"level": 18,
+			"name": "Venpe"
+		},
+		"champions": [
+			{
+				"id": "1b356d57-9c7c-4a13-b235-6ec49d9446f3",
+				"level": 1,
+				"name": "Mondeli"
+			},
+			{
+				"id": "d5e939f6-4e7b-44b3-bcbb-7bfb466bb5fc",
+				"level": 2,
+				"name": "Lasmen"
+			},
+			{
+				"id": "40790a63-62dc-4c80-a157-85de25cdba67",
+				"level": 3,
+				"name": "Eal'muel"
+			}
+		]
+	},
+	{
+		"id": "57f1b1cf-cdb1-4bad-aad6-1bdf70d8b4da",
+		"playerName": "Anna Sandyman",
+		"powerLevel": 41,
+		"rank": 287,
+		"hero": {
+			"id": "b9b6bd6f-638f-4800-855b-9b1bfe3a3120",
+			"level": 30,
+			"name": "Halo"
+		},
+		"champions": [
+			{
+				"id": "ce49c66c-050f-4838-a52e-78e6af1ab7bd",
+				"level": 1,
+				"name": "Venpe"
+			},
+			{
+				"id": "b760d087-84ed-4e0a-850a-378534d10b83",
+				"level": 2,
+				"name": "Edbeo"
+			},
+			{
+				"id": "5fae5d51-4630-48a1-ab1b-3c2fa301eb63",
+				"level": 3,
+				"name": "Ri"
+			}
+		]
+	},
+	{
+		"id": "9ecc6bb3-33e8-4209-aef9-8e585d50003a",
+		"playerName": "Madelgarde Whitfoot",
+		"powerLevel": 42,
+		"rank": 294,
+		"hero": {
+			"id": "f195e3e2-3a06-4a53-823c-1f64b314e811",
+			"level": 48,
+			"name": "Rygrim"
+		},
+		"champions": [
+			{
+				"id": "c45bf156-61ac-40a0-a43b-e56e22607d2f",
+				"level": 1,
+				"name": "Tyron"
+			},
+			{
+				"id": "58479fba-d5cf-4e02-b2c0-d158907f335f",
+				"level": 2,
+				"name": "Leofty"
+			},
+			{
+				"id": "ad3cd5f7-72d5-4a00-b1cd-8a122af436a4",
+				"level": 3,
+				"name": "Aldmann"
+			}
+		]
+	},
+	{
+		"id": "63c785ba-ca87-4947-8983-f45f9e3f2de1",
+		"playerName": "Godun Goold",
+		"powerLevel": 43,
+		"rank": 301,
+		"hero": {
+			"id": "c2017210-ab1c-4064-ab8c-38bc80caa728",
+			"level": 21,
+			"name": "Tolric"
+		},
+		"champions": [
+			{
+				"id": "9fd3534d-599d-47c0-9a24-daa36837c2bf",
+				"level": 1,
+				"name": "Donni"
+			},
+			{
+				"id": "18ccf16d-1f13-409f-9a0c-4110328a3407",
+				"level": 2,
+				"name": "Mileofu"
+			},
+			{
+				"id": "4b2ba251-8569-497a-bb3a-c984cac66c0a",
+				"level": 3,
+				"name": "Loccwen"
+			}
+		]
+	},
+	{
+		"id": "daf8fef8-8675-4cba-a4f7-627c1e8bd11f",
+		"playerName": "Balderic Brownlock",
+		"powerLevel": 44,
+		"rank": 308,
+		"hero": {
+			"id": "d75b3f3d-41d1-4146-987c-9d5ca7ba0fc0",
+			"level": 44,
+			"name": "Liammann"
+		},
+		"champions": [
+			{
+				"id": "d1a7c7af-41e1-4219-9804-27d220b42404",
+				"level": 1,
+				"name": "Anpher"
+			},
+			{
+				"id": "288e4263-8007-4193-b572-b47b703e3676",
+				"level": 2,
+				"name": "Hessean"
+			},
+			{
+				"id": "03942ba5-a971-44c9-9c99-7860d9fb241c",
+				"level": 3,
+				"name": "Serewig"
+			}
+		]
+	},
+	{
+		"id": "9a37f2de-d416-46a7-be1f-ee16edb9fc8b",
+		"playerName": "Smeagol Cutton",
+		"powerLevel": 45,
+		"rank": 315,
+		"hero": {
+			"id": "99856739-f1df-4595-ac7e-3e07079facab",
+			"level": 31,
+			"name": "Joan'wald"
+		},
+		"champions": [
+			{
+				"id": "1efd8e1d-12e1-4de0-bfc3-7e914b1a169e",
+				"level": 1,
+				"name": "Jackwig"
+			},
+			{
+				"id": "8761482a-82d8-478b-b1be-9e71a52f39f6",
+				"level": 2,
+				"name": "Sucwen"
+			},
+			{
+				"id": "dc12722f-d86c-45b9-a093-19fac4d89881",
+				"level": 3,
+				"name": "Sephven"
+			}
+		]
+	},
+	{
+		"id": "251ec819-68b4-4a93-8d5e-e5f24ddaa689",
+		"playerName": "Gundobad Heathertoes",
+		"powerLevel": 46,
+		"rank": 322,
+		"hero": {
+			"id": "bd1ba7dc-645c-4181-ac50-40bb460d39b5",
+			"level": 49,
+			"name": "Halo"
+		},
+		"champions": [
+			{
+				"id": "c5e7f71b-9e43-417d-8427-8f38a2c2d61d",
+				"level": 1,
+				"name": "Jo"
+			},
+			{
+				"id": "a9bf5053-e569-47fc-ac6b-3f58e538b671",
+				"level": 2,
+				"name": "Loccwen"
+			},
+			{
+				"id": "08ae20a2-b2b0-4305-9dab-41b00a93064e",
+				"level": 3,
+				"name": "Thassung"
+			}
+		]
+	},
+	{
+		"id": "1fa23f12-9468-454a-81a5-3491924fec28",
+		"playerName": "Reginar North-took",
+		"powerLevel": 47,
+		"rank": 329,
+		"hero": {
+			"id": "fb289226-a2c0-476d-8c77-cedef4e35e5f",
+			"level": 11,
+			"name": "Orahge"
+		},
+		"champions": [
+			{
+				"id": "69491b1d-5339-4ddf-aa0f-6101ae40ab71",
+				"level": 1,
+				"name": "Vidu"
+			},
+			{
+				"id": "4729e3b0-9d28-47c5-8200-ec2a6931a4d6",
+				"level": 2,
+				"name": "Mileofu"
+			},
+			{
+				"id": "ead269a0-351a-41f3-acd7-670c0d623ed9",
+				"level": 3,
+				"name": "Thassung"
+			}
+		]
+	},
+	{
+		"id": "974b2f06-d009-4c70-bcfa-dbbf7e596288",
+		"playerName": "Tobias North-took",
+		"powerLevel": 48,
+		"rank": 336,
+		"hero": {
+			"id": "cf43ca9e-0d56-4e4a-854b-09d516d30085",
+			"level": 23,
+			"name": "Laytho"
+		},
+		"champions": [
+			{
+				"id": "7fe06fbc-dcb7-4763-b314-b8e287fa7f32",
+				"level": 1,
+				"name": "Anpher"
+			},
+			{
+				"id": "d4c45703-982e-46df-9472-823b574662f6",
+				"level": 2,
+				"name": "Tyron"
+			},
+			{
+				"id": "5117fa1b-9ea4-4087-8ae3-4e9b95b4b6d1",
+				"level": 3,
+				"name": "Eal'muel"
+			}
+		]
+	},
+	{
+		"id": "e666697e-7a24-4344-b0de-a005307c2b2f",
+		"playerName": "Cunegonde Gardner",
+		"powerLevel": 49,
+		"rank": 343,
+		"hero": {
+			"id": "55079f96-0f05-4d66-bc54-8e44177a99fe",
+			"level": 31,
+			"name": "Lasmen"
+		},
+		"champions": [
+			{
+				"id": "31fb245e-38c3-4fbf-89f4-1ec3f891914a",
+				"level": 1,
+				"name": "Lesmeri"
+			},
+			{
+				"id": "8ec116b0-031c-47fa-9edf-004540a80d1d",
+				"level": 2,
+				"name": "Ing"
+			},
+			{
+				"id": "9faf5158-dcc7-4dc5-9258-2465319b2522",
+				"level": 3,
+				"name": "Liammann"
+			}
+		]
+	},
+	{
+		"id": "c0e09cad-4101-43d2-a737-3942f6492237",
+		"playerName": "Tobias North-took",
+		"powerLevel": 50,
+		"rank": 350,
+		"hero": {
+			"id": "2fd4f174-c7c5-43ec-abe1-92a48538a7c7",
+			"level": 26,
+			"name": "Rygrim"
+		},
+		"champions": [
+			{
+				"id": "59172234-555f-4e76-807e-9713af5e7662",
+				"level": 1,
+				"name": "Serebeorth"
+			},
+			{
+				"id": "1a039366-fbd1-492a-915a-7e298ca9474a",
+				"level": 2,
+				"name": "Wise'regin"
+			},
+			{
+				"id": "8de0ea8c-5ff5-4279-86d9-33f48e43cfbb",
+				"level": 3,
+				"name": "Orahge"
+			}
+		]
+	},
+	{
+		"id": "7cdaff40-ada6-480a-9521-98adeb8253f9",
+		"playerName": "Notger Noakesburrow",
+		"powerLevel": 51,
+		"rank": 357,
+		"hero": {
+			"id": "f29eb5d8-08f0-4e47-a7b1-0c93ea91b00a",
+			"level": 21,
+			"name": "Venpe"
+		},
+		"champions": [
+			{
+				"id": "b9e78373-82cc-46a2-b54e-8f47e37cc149",
+				"level": 1,
+				"name": "Jo"
+			},
+			{
+				"id": "1f2bf1bd-60de-4220-8325-cf3ed2ed9432",
+				"level": 2,
+				"name": "Fortinceo"
+			},
+			{
+				"id": "c0bd9244-d0c1-4662-96be-26e5e39c18e3",
+				"level": 3,
+				"name": "Kachell"
+			}
+		]
+	},
+	{
+		"id": "bd2a9743-46b7-4fcd-b104-e12fe06cf662",
+		"playerName": "Bob Gaukrogers",
+		"powerLevel": 52,
+		"rank": 364,
+		"hero": {
+			"id": "e7f9a196-6272-4ffb-a2ae-78150eacc615",
+			"level": 31,
+			"name": "Thassung"
+		},
+		"champions": [
+			{
+				"id": "23347335-55b9-439f-8433-e57acf7c17ff",
+				"level": 1,
+				"name": "Wardsa"
+			},
+			{
+				"id": "48a1253e-1946-40d9-b231-cec4365a2084",
+				"level": 2,
+				"name": "Hal"
+			},
+			{
+				"id": "ee91ce80-63cd-4218-8021-8c528095d389",
+				"level": 3,
+				"name": "Sucwen"
+			}
+		]
+	},
+	{
+		"id": "ffa6bb64-5e7a-422f-9ade-6985207e528d",
+		"playerName": "Anna Sandyman",
+		"powerLevel": 53,
+		"rank": 371,
+		"hero": {
+			"id": "7dfbce64-1597-4178-a515-29328dc80bb7",
+			"level": 33,
+			"name": "Venpe"
+		},
+		"champions": [
+			{
+				"id": "ce2d3335-c489-49c4-b01b-eb1a8a7c65e3",
+				"level": 1,
+				"name": "Aldmann"
+			},
+			{
+				"id": "b9fe5a6b-bf3a-4286-aee9-55272e758f3c",
+				"level": 2,
+				"name": "Car"
+			},
+			{
+				"id": "27c27d5b-c6f3-469e-9f1e-baf6b1efe09c",
+				"level": 3,
+				"name": "Sephven"
+			}
+		]
+	},
+	{
+		"id": "1f315974-4b64-4e7a-8fd8-d918a27a280d",
+		"playerName": "Gorhendad Featherbottom",
+		"powerLevel": 54,
+		"rank": 378,
+		"hero": {
+			"id": "86fa8aaa-3bb3-47d5-91e5-be027d5b4072",
+			"level": 15,
+			"name": "Serewig"
+		},
+		"champions": [
+			{
+				"id": "76fa2ea1-2969-43ed-a9bc-04165dae92e1",
+				"level": 1,
+				"name": "Venmi"
+			},
+			{
+				"id": "7016c2d5-374a-4a23-bb6d-19234436c8ec",
+				"level": 2,
+				"name": "Iliam"
+			},
+			{
+				"id": "37d1a48c-17f7-43f7-ad0b-6ea455b25db2",
+				"level": 3,
+				"name": "Roycla"
+			}
+		]
+	},
+	{
+		"id": "c83ca080-ee4a-48f7-bd77-90b851f69251",
+		"playerName": "Mattalic Proudmead",
+		"powerLevel": 55,
+		"rank": 385,
+		"hero": {
+			"id": "9a932d39-2439-48d7-b5a7-9c478f7b5b8d",
+			"level": 7,
+			"name": "Jo"
+		},
+		"champions": [
+			{
+				"id": "5a3f643f-62a8-4e8c-8a74-a0e1ef4153b3",
+				"level": 1,
+				"name": "Tyron"
+			},
+			{
+				"id": "ed03e498-391b-414d-8883-45bda4403e67",
+				"level": 2,
+				"name": "Serewig"
+			},
+			{
+				"id": "f5bd0bda-5ce2-446f-b4d8-baaf8163b887",
+				"level": 3,
+				"name": "Marfer"
+			}
+		]
+	},
+	{
+		"id": "d3a0cf33-6dec-4237-89d9-2e45550a15df",
+		"playerName": "Tobias North-took",
+		"powerLevel": 56,
+		"rank": 392,
+		"hero": {
+			"id": "8ab05fc0-90d4-45fa-9351-eb7f76cef784",
+			"level": 0,
+			"name": "Car"
+		},
+		"champions": [
+			{
+				"id": "0659afa4-8dc8-46ca-b1ba-8e7626c13f19",
+				"level": 1,
+				"name": "Aldmann"
+			},
+			{
+				"id": "de9dcb51-8214-43be-a6f7-dbf19a564caf",
+				"level": 2,
+				"name": "Lasmen"
+			},
+			{
+				"id": "52a4fd09-45b0-4e5f-a287-518c98dd85f3",
+				"level": 3,
+				"name": "Edbeo"
+			}
+		]
+	},
+	{
+		"id": "34b0a0ca-a7f6-4f3b-8616-7d04fc0c3426",
+		"playerName": "Gomatrudis Took-Took",
+		"powerLevel": 57,
+		"rank": 399,
+		"hero": {
+			"id": "d9b5a821-1d24-4d8e-a04e-2f653addc954",
+			"level": 12,
+			"name": "Thassung"
+		},
+		"champions": [
+			{
+				"id": "3adfc623-9aef-4965-a165-1f8a9a7d9058",
+				"level": 1,
+				"name": "Jo"
+			},
+			{
+				"id": "533f7a20-92bc-4ace-945e-e5fca4559666",
+				"level": 2,
+				"name": "Lacsere"
+			},
+			{
+				"id": "2d050cc7-c50c-42cd-a4cd-38b16f46ad87",
+				"level": 3,
+				"name": "Anpher"
+			}
+		]
+	},
+	{
+		"id": "895690d9-051c-4eef-b29b-446ceb3d0334",
+		"playerName": "Anna Sandyman",
+		"powerLevel": 58,
+		"rank": 406,
+		"hero": {
+			"id": "5f52293c-66d9-4ff0-b03a-ac41064ef5ca",
+			"level": 35,
+			"name": "Iliam"
+		},
+		"champions": [
+			{
+				"id": "3d075d09-8690-4c41-823b-3512dff0b4bd",
+				"level": 1,
+				"name": "Terever"
+			},
+			{
+				"id": "6e0836c4-009f-4162-b233-7b78feda5ae4",
+				"level": 2,
+				"name": "Iliam"
+			},
+			{
+				"id": "dca8261a-efaa-4889-a80f-f78b58199740",
+				"level": 3,
+				"name": "Aldmann"
+			}
+		]
+	},
+	{
+		"id": "dc0a549f-0a90-43af-948e-9f15349e7fd3",
+		"playerName": "Radigis Puddlefoot",
+		"powerLevel": 59,
+		"rank": 413,
+		"hero": {
+			"id": "5801efc4-93db-431b-8878-24315e2738d7",
+			"level": 44,
+			"name": "Hampe"
+		},
+		"champions": [
+			{
+				"id": "b1217ef1-5b6a-44c5-9231-9e34d3d37459",
+				"level": 1,
+				"name": "Tolric"
+			},
+			{
+				"id": "41b34492-38c0-432e-8bb3-0faab6e9b077",
+				"level": 2,
+				"name": "Lacsere"
+			},
+			{
+				"id": "91f11fa6-6a5f-47e0-b29f-9522a0ad4784",
+				"level": 3,
+				"name": "Laytho"
+			}
+		]
+	},
+	{
+		"id": "fdc0146d-8962-4fac-a666-5daf8908a7e7",
+		"playerName": "Nina Cotton",
+		"powerLevel": 60,
+		"rank": 420,
+		"hero": {
+			"id": "72435068-8cd9-4f65-adb9-a8d7ce6cef8b",
+			"level": 10,
+			"name": "Jeffsu"
+		},
+		"champions": [
+			{
+				"id": "3228ab39-b7ea-4b32-94da-3299368ba527",
+				"level": 1,
+				"name": "Terga"
+			},
+			{
+				"id": "6fa7bd78-e480-499c-8694-7f20c63872d7",
+				"level": 2,
+				"name": "Terwise"
+			},
+			{
+				"id": "10956c6b-3f1a-4ce5-8d03-d92e6b3287dd",
+				"level": 3,
+				"name": "Ri"
+			}
+		]
+	},
+	{
+		"id": "f26aeb25-654d-427a-940f-d0e9d2e632fc",
+		"playerName": "Irmgard Greenhill",
+		"powerLevel": 61,
+		"rank": 427,
+		"hero": {
+			"id": "800ad8a5-f066-495f-b72d-cf59ebf76247",
+			"level": 35,
+			"name": "Aldmann"
+		},
+		"champions": [
+			{
+				"id": "a64f9435-2d4a-49b1-ba92-716741af5b2d",
+				"level": 1,
+				"name": "Rygrim"
+			},
+			{
+				"id": "d31613df-52be-41ad-9804-4e1a432bd76b",
+				"level": 2,
+				"name": "Thassung"
+			},
+			{
+				"id": "7b6765f9-2c94-4c24-9231-f81e983c3030",
+				"level": 3,
+				"name": "Eal'muel"
+			}
+		]
+	},
+	{
+		"id": "387c5a25-4526-4da3-850a-00cdd8bc7920",
+		"playerName": "Lothar Chubb",
+		"powerLevel": 62,
+		"rank": 434,
+		"hero": {
+			"id": "319d5c31-44da-4520-b2d3-e4f2dc68085d",
+			"level": 23,
+			"name": "Waruan"
+		},
+		"champions": [
+			{
+				"id": "f9f2354a-0476-41c5-b0f0-5ed29e82d5ad",
+				"level": 1,
+				"name": "Jo"
+			},
+			{
+				"id": "0422f3c2-5d97-4618-803f-d0e1969bbc59",
+				"level": 2,
+				"name": "Lacsere"
+			},
+			{
+				"id": "7ad4f1bf-4982-44ab-8113-3755bf0b3f3f",
+				"level": 3,
+				"name": "Anpher"
+			}
+		]
+	},
+	{
+		"id": "394e0ca0-68a4-431a-a998-1c07dea07e4c",
+		"playerName": "Dalfin Farfoot",
+		"powerLevel": 63,
+		"rank": 441,
+		"hero": {
+			"id": "7e1644f3-821e-428b-9c7d-0a5a96c57a5c",
+			"level": 1,
+			"name": "Terga"
+		},
+		"champions": [
+			{
+				"id": "b0fb9915-b460-4ab5-943e-a0fc9b26a0c9",
+				"level": 1,
+				"name": "Rygrim"
+			},
+			{
+				"id": "fc41ccfe-b8cb-493f-82bd-66b9ebca85ff",
+				"level": 2,
+				"name": "Venpe"
+			},
+			{
+				"id": "c7cf9f76-bbe7-4f6e-b06d-4934076f71f3",
+				"level": 3,
+				"name": "Lacsere"
+			}
+		]
+	},
+	{
+		"id": "fa58d81b-56cf-473b-ad10-25e41c52d338",
+		"playerName": "Gerbert Bolger",
+		"powerLevel": 64,
+		"rank": 448,
+		"hero": {
+			"id": "082b418e-692b-42c1-ae65-5d754b2f915f",
+			"level": 7,
+			"name": "Leofty"
+		},
+		"champions": [
+			{
+				"id": "f88ce1c2-d213-4f1a-8b35-92567545f054",
+				"level": 1,
+				"name": "Nasara"
+			},
+			{
+				"id": "7eff46c7-8ec0-46c9-8025-6ceb24698c7d",
+				"level": 2,
+				"name": "Lesmeri"
+			},
+			{
+				"id": "522eccce-8b60-44df-b807-51364387cba9",
+				"level": 3,
+				"name": "Sephven"
+			}
+		]
+	},
+	{
+		"id": "69c916be-4311-4c0d-bceb-df654fdf2f84",
+		"playerName": "Habaccuc Barrowes",
+		"powerLevel": 65,
+		"rank": 455,
+		"hero": {
+			"id": "e043c41b-ce16-4fa3-b31c-223c183e4df9",
+			"level": 21,
+			"name": "Merimit"
+		},
+		"champions": [
+			{
+				"id": "db6388d9-fac5-4203-bc26-9ded70e1485c",
+				"level": 1,
+				"name": "Sucwen"
+			},
+			{
+				"id": "0fd55a32-9fde-4778-a666-50f993337413",
+				"level": 2,
+				"name": "Loccwen"
+			},
+			{
+				"id": "f97fb893-cd84-4aa0-98b6-704b5e6472f7",
+				"level": 3,
+				"name": "Bertba"
+			}
+		]
+	},
+	{
+		"id": "da7c7992-77c9-4221-b61c-1ed7aba291c5",
+		"playerName": "Notger Noakesburrow",
+		"powerLevel": 66,
+		"rank": 462,
+		"hero": {
+			"id": "ba5212de-cf4e-455f-b0bd-e4a74013dbb2",
+			"level": 43,
+			"name": "Ri"
+		},
+		"champions": [
+			{
+				"id": "d661b833-2084-4006-bb0e-45ffe913a3bc",
+				"level": 1,
+				"name": "Ca'su"
+			},
+			{
+				"id": "27bc86c6-e89f-4853-9448-223a3400a833",
+				"level": 2,
+				"name": "Lesmeri"
+			},
+			{
+				"id": "7985183f-ff42-4c76-80d2-d60bf4612be2",
+				"level": 3,
+				"name": "Venpe"
+			}
+		]
+	},
+	{
+		"id": "684df9b0-dfe1-4986-ac79-77fce73e7f12",
+		"playerName": "Conrad Gardner",
+		"powerLevel": 67,
+		"rank": 469,
+		"hero": {
+			"id": "1bb91007-b3a4-4094-b245-0d074adf0523",
+			"level": 8,
+			"name": "Serewig"
+		},
+		"champions": [
+			{
+				"id": "6ded6f4a-27d1-4ed1-9db9-0e66e3f5dd95",
+				"level": 1,
+				"name": "Rygrim"
+			},
+			{
+				"id": "422f07ad-5686-4bec-9e5b-28c6665f6a72",
+				"level": 2,
+				"name": "Hal"
+			},
+			{
+				"id": "633807e8-f109-4b42-b6c9-7ef286a9988a",
+				"level": 3,
+				"name": "Rygrim"
+			}
+		]
+	},
+	{
+		"id": "58f87969-eb66-44c8-8538-05a891772f8a",
+		"playerName": "Tobias Goldworthy",
+		"powerLevel": 68,
+		"rank": 476,
+		"hero": {
+			"id": "9a986911-b4fc-438c-95d2-364f97b75b6d",
+			"level": 29,
+			"name": "Laytho"
+		},
+		"champions": [
+			{
+				"id": "f28e54e1-2f8b-4449-abb1-6c68cccedee0",
+				"level": 1,
+				"name": "Ordjen"
+			},
+			{
+				"id": "ec02a8dd-088d-48bf-8a93-f7fead07c0fc",
+				"level": 2,
+				"name": "Ing"
+			},
+			{
+				"id": "d94f6c22-f046-4b55-82d5-88124f6c2d69",
+				"level": 3,
+				"name": "Venmi"
+			}
+		]
+	},
+	{
+		"id": "28826eff-a615-4c67-9444-65b1f12fdb3e",
+		"playerName": "Godun Goold",
+		"powerLevel": 69,
+		"rank": 483,
+		"hero": {
+			"id": "5691144a-ee31-4a9d-a096-d3b684e92dd1",
+			"level": 42,
+			"name": "Car"
+		},
+		"champions": [
+			{
+				"id": "fb5641f3-49c7-4fe9-9cd4-ff7405f85f95",
+				"level": 1,
+				"name": "Serebeorth"
+			},
+			{
+				"id": "707118c8-f576-4a89-a1a1-8fab5dd398f0",
+				"level": 2,
+				"name": "Merimit"
+			},
+			{
+				"id": "5a2c837b-a973-4a1c-9658-66e1015f572f",
+				"level": 3,
+				"name": "Sucwen"
+			}
+		]
+	},
+	{
+		"id": "fd60bf2d-773a-4e63-82c4-004d0e8f2140",
+		"playerName": "Godun Goold",
+		"powerLevel": 70,
+		"rank": 490,
+		"hero": {
+			"id": "3544c7ba-389c-4e4d-b33b-3051551be9ab",
+			"level": 18,
+			"name": "Iliam"
+		},
+		"champions": [
+			{
+				"id": "b259dfbe-23a0-4fe3-ac8d-413e654f1094",
+				"level": 1,
+				"name": "Venpe"
+			},
+			{
+				"id": "ebda0a8e-9389-4876-9734-db664b89218e",
+				"level": 2,
+				"name": "Wardsa"
+			},
+			{
+				"id": "a53e377a-d9e0-474c-a5bd-7b937f854375",
+				"level": 3,
+				"name": "Car"
+			}
+		]
+	},
+	{
+		"id": "bc7b5fe0-fe60-4346-95de-df1ea1aaed78",
+		"playerName": "Bob Gaukrogers",
+		"powerLevel": 71,
+		"rank": 497,
+		"hero": {
+			"id": "908482aa-6fac-4922-945e-e7172beccd54",
+			"level": 33,
+			"name": "Halo"
+		},
+		"champions": [
+			{
+				"id": "770619ec-6b88-49f8-a8d9-f104d841ac2a",
+				"level": 1,
+				"name": "Lacsere"
+			},
+			{
+				"id": "25a511f3-2f8e-420f-bc74-898836b32aa5",
+				"level": 2,
+				"name": "Edbeo"
+			},
+			{
+				"id": "05d72530-0cb7-431b-a57f-30bb26808ce7",
+				"level": 3,
+				"name": "Joan'wald"
+			}
+		]
+	},
+	{
+		"id": "b2961f3c-877d-4ecd-a0da-f84b55a76423",
+		"playerName": "Roderic Boulderhill",
+		"powerLevel": 72,
+		"rank": 504,
+		"hero": {
+			"id": "a6b0037f-d095-4d1c-8844-f410a1fe59b6",
+			"level": 15,
+			"name": "Sucwen"
+		},
+		"champions": [
+			{
+				"id": "ca446baf-f4ed-4311-941e-aa119abf9f8a",
+				"level": 1,
+				"name": "Thassung"
+			},
+			{
+				"id": "359f18ff-028b-42ea-980a-88baecdff757",
+				"level": 2,
+				"name": "Car"
+			},
+			{
+				"id": "ec8362a3-5a82-4987-b7da-5ea0b0494585",
+				"level": 3,
+				"name": "Hampe"
+			}
+		]
+	},
+	{
+		"id": "41f742c8-b4a2-4b46-bea2-f8726f9800c3",
+		"playerName": "Madelgarde Whitfoot",
+		"powerLevel": 73,
+		"rank": 511,
+		"hero": {
+			"id": "f2764677-0134-4abb-ab7a-33658216a496",
+			"level": 14,
+			"name": "Hampe"
+		},
+		"champions": [
+			{
+				"id": "5a0fe221-fed7-4345-ae3e-6f3eb7207c71",
+				"level": 1,
+				"name": "Rocnan"
+			},
+			{
+				"id": "7a8f897c-ca0a-4c47-8566-332d4f03eea9",
+				"level": 2,
+				"name": "Ca'su"
+			},
+			{
+				"id": "46270917-a975-4e80-8d38-06a371f51b93",
+				"level": 3,
+				"name": "Rocnan"
+			}
+		]
+	},
+	{
+		"id": "e7c7be56-04a1-45af-b003-2375fecd7b5c",
+		"playerName": "Nora Burrowes",
+		"powerLevel": 74,
+		"rank": 518,
+		"hero": {
+			"id": "7a772612-aeee-42c8-8b66-18bf8fe6a080",
+			"level": 47,
+			"name": "Wardsa"
+		},
+		"champions": [
+			{
+				"id": "c2a42fb3-c888-477b-a77a-e2ca7c523138",
+				"level": 1,
+				"name": "Hal"
+			},
+			{
+				"id": "3745e0fd-a3d8-4ef3-ba78-2238cc877c9d",
+				"level": 2,
+				"name": "Nasara"
+			},
+			{
+				"id": "8a4450b2-a69a-4326-8efc-520d6323e219",
+				"level": 3,
+				"name": "Sucwen"
+			}
+		]
+	},
+	{
+		"id": "b78e5d5b-d266-4c01-a748-f2f83e8ffbdd",
+		"playerName": "Clodomir Hairyfoot",
+		"powerLevel": 75,
+		"rank": 525,
+		"hero": {
+			"id": "a1560975-3f9e-49e0-be1a-329e63d7c2ca",
+			"level": 40,
+			"name": "Bertba"
+		},
+		"champions": [
+			{
+				"id": "35eaa660-6d7a-4259-b3cb-a4323bac7e70",
+				"level": 1,
+				"name": "Rocnan"
+			},
+			{
+				"id": "ca06a376-687a-4a68-b55d-bfaffd36697a",
+				"level": 2,
+				"name": "Nasara"
+			},
+			{
+				"id": "7d23bbc5-c8e6-40a7-8b59-e358872a6055",
+				"level": 3,
+				"name": "Leofty"
+			}
+		]
+	},
+	{
+		"id": "6c9a443b-fa63-4b0a-9c2a-494f7dd3916b",
+		"playerName": "Cunegonde Gardner",
+		"powerLevel": 76,
+		"rank": 532,
+		"hero": {
+			"id": "6f832080-9c99-4e4a-bfa9-d7ca82dee0b1",
+			"level": 43,
+			"name": "Ing"
+		},
+		"champions": [
+			{
+				"id": "abb1d1d7-9ce4-497d-b449-406c2d6ebdbe",
+				"level": 1,
+				"name": "Lacsere"
+			},
+			{
+				"id": "9550040e-7e40-4fb5-bb51-340aff8dcedb",
+				"level": 2,
+				"name": "Mondeli"
+			},
+			{
+				"id": "8de3048f-9b27-4ec3-919a-2dedd989183d",
+				"level": 3,
+				"name": "Nasara"
+			}
+		]
+	},
+	{
+		"id": "3ff87847-2a1a-493b-9135-883499bed0d4",
+		"playerName": "Adelard Gamgee",
+		"powerLevel": 77,
+		"rank": 539,
+		"hero": {
+			"id": "95a7553d-d873-40c8-9c25-bbb1f256a67a",
+			"level": 17,
+			"name": "Rocnan"
+		},
+		"champions": [
+			{
+				"id": "206c908a-b7c9-43ff-9bfc-4d93898d080b",
+				"level": 1,
+				"name": "Car"
+			},
+			{
+				"id": "1f212cd9-186b-4973-bb73-fca0d3110589",
+				"level": 2,
+				"name": "Thassung"
+			},
+			{
+				"id": "503d55d9-9fe1-4da2-94e7-55f9c343d02e",
+				"level": 3,
+				"name": "Mileofu"
+			}
+		]
+	},
+	{
+		"id": "a7c21d19-440b-4ab6-85ed-c8a802cb23c0",
+		"playerName": "Nob Took-Took",
+		"powerLevel": 78,
+		"rank": 546,
+		"hero": {
+			"id": "c9b0ec42-47e9-4291-a354-0f53794b852f",
+			"level": 21,
+			"name": "Marfer"
+		},
+		"champions": [
+			{
+				"id": "9faf1527-c46c-4d2c-8490-a24637a1712f",
+				"level": 1,
+				"name": "Leofty"
+			},
+			{
+				"id": "10bde04c-8bc9-4eec-9ed6-41bddc4d7dbd",
+				"level": 2,
+				"name": "Aldmann"
+			},
+			{
+				"id": "44e2a79f-cedf-4a79-8f31-0939fa10e219",
+				"level": 3,
+				"name": "Mondeli"
+			}
+		]
+	},
+	{
+		"id": "6b5eb4f9-9a9a-4c8c-868f-9b13ba93f989",
+		"playerName": "Smeagol Cutton",
+		"powerLevel": 79,
+		"rank": 553,
+		"hero": {
+			"id": "19f8563d-0501-4072-805a-ad0de53548a1",
+			"level": 37,
+			"name": "Licrow"
+		},
+		"champions": [
+			{
+				"id": "6946dcaa-57f4-4d5b-a1ea-4d2b8f8debcf",
+				"level": 1,
+				"name": "Laytho"
+			},
+			{
+				"id": "9a927476-503e-44ab-ab54-8235f27ad66e",
+				"level": 2,
+				"name": "Loccwen"
+			},
+			{
+				"id": "780b4413-dc21-46b8-9fcb-c1f1dbfc7f25",
+				"level": 3,
+				"name": "Ca'su"
+			}
+		]
+	},
+	{
+		"id": "f831ad48-5a34-42fa-a13b-00ee0f849690",
+		"playerName": "Godun Goold",
+		"powerLevel": 80,
+		"rank": 560,
+		"hero": {
+			"id": "ed25a659-a3bb-4700-b1fa-bbf6cbec9d65",
+			"level": 0,
+			"name": "Merimit"
+		},
+		"champions": [
+			{
+				"id": "34228992-7e34-4351-a754-c69e991675b7",
+				"level": 1,
+				"name": "Roycla"
+			},
+			{
+				"id": "837881d7-32e6-4733-9d3f-a36543cbb27a",
+				"level": 2,
+				"name": "Vidu"
+			},
+			{
+				"id": "cdc202d0-2cf6-4abe-91f7-b9e65ae25798",
+				"level": 3,
+				"name": "Thassung"
+			}
+		]
+	},
+	{
+		"id": "a6869da0-6c67-41d9-8190-f0dabb86be6b",
+		"playerName": "Gorhendad Featherbottom",
+		"powerLevel": 81,
+		"rank": 567,
+		"hero": {
+			"id": "e1173be1-a408-4c86-b3e8-bf46be06607c",
+			"level": 41,
+			"name": "Anpher"
+		},
+		"champions": [
+			{
+				"id": "4b2a19e9-87e0-4504-967a-40e04e18ed4a",
+				"level": 1,
+				"name": "Wardsa"
+			},
+			{
+				"id": "e6faca66-2aec-4aa5-b544-03ed6a9fbb94",
+				"level": 2,
+				"name": "Hal"
+			},
+			{
+				"id": "8eb87b3e-33ee-4b0a-9c8f-3f5a2bee0100",
+				"level": 3,
+				"name": "Liammann"
+			}
+		]
+	},
+	{
+		"id": "0290a245-c0a4-43e1-bb86-ff599da8cf8e",
+		"playerName": "Fredegunde Finnagund",
+		"powerLevel": 82,
+		"rank": 574,
+		"hero": {
+			"id": "aaaed19d-33df-4e10-9419-784694afe76f",
+			"level": 30,
+			"name": "Terwise"
+		},
+		"champions": [
+			{
+				"id": "0729fc14-0713-4d37-812e-4580c3f2502d",
+				"level": 1,
+				"name": "Ri"
+			},
+			{
+				"id": "16986a0e-e435-4020-992a-319d4a15ff50",
+				"level": 2,
+				"name": "Orahge"
+			},
+			{
+				"id": "e49223f6-0835-4f6d-be68-5dabd902d0e3",
+				"level": 3,
+				"name": "Timdon"
+			}
+		]
+	},
+	{
+		"id": "36200031-25bf-4a2d-9d00-ebc381afb01f",
+		"playerName": "Fredegunde Finnagund",
+		"powerLevel": 83,
+		"rank": 581,
+		"hero": {
+			"id": "d3a4808f-5780-47df-8f25-35e7614f8b22",
+			"level": 20,
+			"name": "Mondeli"
+		},
+		"champions": [
+			{
+				"id": "47389e4f-6b39-4e37-a2c2-efacb559de79",
+				"level": 1,
+				"name": "Aldmann"
+			},
+			{
+				"id": "b0da5aa0-9b69-4ddd-babb-1c9dbccba50a",
+				"level": 2,
+				"name": "Car"
+			},
+			{
+				"id": "4d2310a1-d58a-42cc-83a3-f8d5aa475144",
+				"level": 3,
+				"name": "Venmi"
+			}
+		]
+	},
+	{
+		"id": "046152e6-8f8f-4d71-beb7-29fc1da472d7",
+		"playerName": "Leesha Brandagamba",
+		"powerLevel": 84,
+		"rank": 588,
+		"hero": {
+			"id": "227377dd-65ed-4ba4-a253-4e24850404fc",
+			"level": 21,
+			"name": "Kachell"
+		},
+		"champions": [
+			{
+				"id": "11662a31-335f-49aa-9ba1-5d2b35256c70",
+				"level": 1,
+				"name": "Orahge"
+			},
+			{
+				"id": "13bdd391-ebd1-40b5-a69d-5d74cf21e822",
+				"level": 2,
+				"name": "Ing"
+			},
+			{
+				"id": "d871a9e6-8438-4ec5-a74e-0d34879e91ed",
+				"level": 3,
+				"name": "Terwise"
+			}
+		]
+	},
+	{
+		"id": "36a42ea6-01a8-445f-ae22-2d1ff2d2eff0",
+		"playerName": "Mansuetus Clayhanger",
+		"powerLevel": 85,
+		"rank": 595,
+		"hero": {
+			"id": "f22e5d61-3521-44ae-9afe-7b521d8a0120",
+			"level": 21,
+			"name": "Terwise"
+		},
+		"champions": [
+			{
+				"id": "c0e9337f-bbc6-4dc8-8b3c-4efd2682c083",
+				"level": 1,
+				"name": "Marfer"
+			},
+			{
+				"id": "085acd9c-6c2d-4bb1-b33f-e268f8f81717",
+				"level": 2,
+				"name": "Sucwen"
+			},
+			{
+				"id": "eb40320d-b5dd-4653-ac81-1816bbb2924b",
+				"level": 3,
+				"name": "Sucwen"
+			}
+		]
+	},
+	{
+		"id": "471f2a28-dc27-477e-bf1f-f3da257772e9",
+		"playerName": "Alura Goodbody",
+		"powerLevel": 86,
+		"rank": 602,
+		"hero": {
+			"id": "8a898196-e949-419a-8e24-def8763000c5",
+			"level": 6,
+			"name": "Anpher"
+		},
+		"champions": [
+			{
+				"id": "dbc3f03c-0bc1-4cc4-99ad-0ebd6952a95c",
+				"level": 1,
+				"name": "Hessean"
+			},
+			{
+				"id": "98514537-058e-4a4b-9e97-a596c57ec723",
+				"level": 2,
+				"name": "Serewig"
+			},
+			{
+				"id": "0514e530-c840-4d7f-b09c-e90b11d79b86",
+				"level": 3,
+				"name": "Car"
+			}
+		]
+	},
+	{
+		"id": "da984761-c2b0-4398-bde2-949dc4756fe2",
+		"playerName": "Conrad Gardner",
+		"powerLevel": 87,
+		"rank": 609,
+		"hero": {
+			"id": "0d848f83-ed42-478e-b430-7f2f7538681f",
+			"level": 26,
+			"name": "Jackwig"
+		},
+		"champions": [
+			{
+				"id": "676b51a7-47ff-4715-b45f-011ce57ae797",
+				"level": 1,
+				"name": "Tyron"
+			},
+			{
+				"id": "7646d4e9-18e6-44dc-bdf6-80b42c25b796",
+				"level": 2,
+				"name": "Ca'su"
+			},
+			{
+				"id": "e6efa21d-d56e-4677-8707-c916ff2ff282",
+				"level": 3,
+				"name": "Bertba"
+			}
+		]
+	},
+	{
+		"id": "b3f4d53f-be33-47ad-be18-e37c05c8b9a2",
+		"playerName": "Roderic Boulderhill",
+		"powerLevel": 88,
+		"rank": 616,
+		"hero": {
+			"id": "61afc452-1cdb-4cce-b458-28bd7418f3fe",
+			"level": 16,
+			"name": "Nasara"
+		},
+		"champions": [
+			{
+				"id": "f8d906b1-8edd-4aa0-b2c3-60312ab655a7",
+				"level": 1,
+				"name": "Venmi"
+			},
+			{
+				"id": "ebd1daf3-7bdb-4f4b-a476-a6710ba5fef6",
+				"level": 2,
+				"name": "Rocnan"
+			},
+			{
+				"id": "5c99ee38-bf9e-4dea-b8bb-1cef474f9522",
+				"level": 3,
+				"name": "Leofty"
+			}
+		]
+	},
+	{
+		"id": "49ae114c-ac1f-495c-9c84-de5b1c2f91aa",
+		"playerName": "Reginar North-took",
+		"powerLevel": 89,
+		"rank": 623,
+		"hero": {
+			"id": "45b43c25-827f-4f11-8e48-fd7c8c313d59",
+			"level": 44,
+			"name": "Eal'muel"
+		},
+		"champions": [
+			{
+				"id": "4c7d8652-f60a-418a-a493-9a4623ee2923",
+				"level": 1,
+				"name": "Timdon"
+			},
+			{
+				"id": "6a7b2a17-be39-457c-b22f-1940a62c3079",
+				"level": 2,
+				"name": "Eal'muel"
+			},
+			{
+				"id": "5d52debd-ae7d-4af5-9f7a-c3cd2f417eee",
+				"level": 3,
+				"name": "Leofty"
+			}
+		]
+	},
+	{
+		"id": "2bd7bfa1-6b18-404b-b84d-8a5d8ef5d7b1",
+		"playerName": "Godun Goold",
+		"powerLevel": 90,
+		"rank": 630,
+		"hero": {
+			"id": "0a50e43b-3aaa-4eba-a934-33abee8ef8a5",
+			"level": 10,
+			"name": "Iliam"
+		},
+		"champions": [
+			{
+				"id": "53ed36c2-abbb-4080-bef9-2744c6bdc767",
+				"level": 1,
+				"name": "Merimit"
+			},
+			{
+				"id": "bd4d7383-9887-4a7d-ab12-9d9073ba4a0d",
+				"level": 2,
+				"name": "Merimit"
+			},
+			{
+				"id": "5e2d9f21-7731-43da-ac5e-03d621f41979",
+				"level": 3,
+				"name": "Tolric"
+			}
+		]
+	},
+	{
+		"id": "fa7c58b7-b0a0-4c6d-8192-b76177a4d0e1",
+		"playerName": "Iolo Boffin",
+		"powerLevel": 91,
+		"rank": 637,
+		"hero": {
+			"id": "b6db1bf9-ed40-40da-9b33-4b0c855b2ff5",
+			"level": 19,
+			"name": "Sucwen"
+		},
+		"champions": [
+			{
+				"id": "0654d168-9d9f-41ae-98fb-3476368a0c84",
+				"level": 1,
+				"name": "Bertba"
+			},
+			{
+				"id": "00cd3334-5891-483c-b49e-227afb095591",
+				"level": 2,
+				"name": "Terever"
+			},
+			{
+				"id": "ac089b4f-fde2-496d-87cf-448442784f46",
+				"level": 3,
+				"name": "Kachell"
+			}
+		]
+	},
+	{
+		"id": "fe87c815-0e93-4da4-8e81-882419660ac9",
+		"playerName": "Conrad Gardner",
+		"powerLevel": 92,
+		"rank": 644,
+		"hero": {
+			"id": "c49a380e-b57c-4860-9c64-532def1203d0",
+			"level": 35,
+			"name": "Wise'regin"
+		},
+		"champions": [
+			{
+				"id": "cdc3bd9d-fab1-4166-b745-2d9301674a9c",
+				"level": 1,
+				"name": "Laytho"
+			},
+			{
+				"id": "19067ceb-e632-44a0-a5d2-27dbc5d8a884",
+				"level": 2,
+				"name": "Liammann"
+			},
+			{
+				"id": "5a48042e-11a4-4378-a6a0-67793c5222da",
+				"level": 3,
+				"name": "Lasmen"
+			}
+		]
+	},
+	{
+		"id": "85144079-5d17-4434-a028-3a08ff9887d3",
+		"playerName": "Gomatrudis Took-Took",
+		"powerLevel": 93,
+		"rank": 651,
+		"hero": {
+			"id": "8e0a7c75-1ec2-4538-af34-4bb3cc19cf9e",
+			"level": 6,
+			"name": "Nasara"
+		},
+		"champions": [
+			{
+				"id": "e498bd48-c59c-4aba-a818-9aabad209cfe",
+				"level": 1,
+				"name": "Edbeo"
+			},
+			{
+				"id": "0b342a25-feef-48b3-9339-4d5dfad7beea",
+				"level": 2,
+				"name": "Eal'muel"
+			},
+			{
+				"id": "765b6d8c-f341-43b5-9fac-c19a10254554",
+				"level": 3,
+				"name": "Donni"
+			}
+		]
+	},
+	{
+		"id": "a09429a0-abcf-47ef-a69a-84f02983d7f6",
+		"playerName": "Eglantine Brandagamba",
+		"powerLevel": 94,
+		"rank": 658,
+		"hero": {
+			"id": "2b1ec83c-874c-4e23-845c-6d85a90c0e13",
+			"level": 10,
+			"name": "Aldmann"
+		},
+		"champions": [
+			{
+				"id": "64a4d06e-f1ee-4057-83c5-8d6552470076",
+				"level": 1,
+				"name": "Maxhere"
+			},
+			{
+				"id": "dcff61ec-b2ef-4538-9b0b-e4055ac143e0",
+				"level": 2,
+				"name": "Orahge"
+			},
+			{
+				"id": "ef77aeb1-fd0d-4287-be78-448a37a64f13",
+				"level": 3,
+				"name": "Eal'muel"
+			}
+		]
+	},
+	{
+		"id": "72e2358b-44fe-460d-ab1d-f4c5d0c19d8d",
+		"playerName": "Darby Oakbottom",
+		"powerLevel": 95,
+		"rank": 665,
+		"hero": {
+			"id": "129da610-a9fa-42fb-899c-31e8a8dfb0fe",
+			"level": 48,
+			"name": "Thassung"
+		},
+		"champions": [
+			{
+				"id": "f7336402-cc6f-46af-a116-a1f008f387f5",
+				"level": 1,
+				"name": "Mondeli"
+			},
+			{
+				"id": "b80ea890-8ff3-4120-875a-d2b98f88f7af",
+				"level": 2,
+				"name": "Ca'su"
+			},
+			{
+				"id": "04ba4384-d924-41a6-a369-697a3ea91530",
+				"level": 3,
+				"name": "Vidu"
+			}
+		]
+	},
+	{
+		"id": "8b101842-b9fe-4908-beaf-63832c1e6ced",
+		"playerName": "Alura Goodbody",
+		"powerLevel": 96,
+		"rank": 672,
+		"hero": {
+			"id": "45962f12-0ea6-4be3-8ba2-e686677b9478",
+			"level": 15,
+			"name": "Lasmen"
+		},
+		"champions": [
+			{
+				"id": "90445735-999d-4250-8fc1-9015bfd48344",
+				"level": 1,
+				"name": "Lacsere"
+			},
+			{
+				"id": "52cf1c48-0042-4213-8440-0b2713d96865",
+				"level": 2,
+				"name": "Leofty"
+			},
+			{
+				"id": "6d86c646-4139-4484-9ed3-22e87972d1b5",
+				"level": 3,
+				"name": "Joan'wald"
+			}
+		]
+	},
+	{
+		"id": "3313fca8-f1af-4a50-b3c1-b5116f1aedcd",
+		"playerName": "Conrad Gardner",
+		"powerLevel": 97,
+		"rank": 679,
+		"hero": {
+			"id": "fa058190-2b4a-4a29-8e74-30ae8fa38408",
+			"level": 30,
+			"name": "Iliam"
+		},
+		"champions": [
+			{
+				"id": "54e4d2ea-5f16-49e3-a837-dc44da5c49e8",
+				"level": 1,
+				"name": "Ing"
+			},
+			{
+				"id": "3ee9085d-bf31-401c-89ac-40f2c3a41501",
+				"level": 2,
+				"name": "Lasmen"
+			},
+			{
+				"id": "6339a6dd-994a-4cdd-ad8f-b10b7751a53b",
+				"level": 3,
+				"name": "Kachell"
+			}
+		]
+	},
+	{
+		"id": "1077229c-a895-4df9-9c52-4fd0a1ae0798",
+		"playerName": "Prima Took-Brandybuck",
+		"powerLevel": 98,
+		"rank": 686,
+		"hero": {
+			"id": "5865d9f8-ab81-4232-9899-d1aec3a93ff0",
+			"level": 20,
+			"name": "Fortinceo"
+		},
+		"champions": [
+			{
+				"id": "a0ca3567-11a0-4f12-a121-1b61e49dd3f6",
+				"level": 1,
+				"name": "Halo"
+			},
+			{
+				"id": "dedec92a-4a25-487a-b36a-81beab5db4b2",
+				"level": 2,
+				"name": "Lesmeri"
+			},
+			{
+				"id": "83144d83-2fc7-4ab9-b364-25ffd40c1e5b",
+				"level": 3,
+				"name": "Roycla"
+			}
+		]
+	},
+	{
+		"id": "fad93ffa-4705-4395-9f16-b78e13391705",
+		"playerName": "Fredegunde Finnagund",
+		"powerLevel": 99,
+		"rank": 693,
+		"hero": {
+			"id": "f1243575-e414-4a0d-bbb2-9834f5732107",
+			"level": 39,
+			"name": "Lasmen"
+		},
+		"champions": [
+			{
+				"id": "991b9192-b6cc-4503-8a33-4a89669161a7",
+				"level": 1,
+				"name": "Mondeli"
+			},
+			{
+				"id": "8a3b2476-3ab0-4ef6-89c8-7fad08134717",
+				"level": 2,
+				"name": "Iliam"
+			},
+			{
+				"id": "6a489919-f5c1-4107-bf76-57c388fddd76",
+				"level": 3,
+				"name": "Merimit"
+			}
+		]
+	},
+	{
+		"id": "ad8f2c58-1d9b-41c6-b540-179e1d5bbe60",
+		"playerName": "Mattalic Proudmead",
+		"powerLevel": 100,
+		"rank": 700,
+		"hero": {
+			"id": "700a01e8-b6fd-4d42-b733-f7f48da1723e",
+			"level": 4,
+			"name": "Liammann"
+		},
+		"champions": [
+			{
+				"id": "96f18e3b-64d3-4613-9469-806ba5c20c65",
+				"level": 1,
+				"name": "Hampe"
+			},
+			{
+				"id": "28de2d27-1f07-457d-957a-779eb5b5a3f8",
+				"level": 2,
+				"name": "Donni"
+			},
+			{
+				"id": "620f2d2c-31f9-466f-bd30-cf690924e20c",
+				"level": 3,
+				"name": "Licrow"
+			}
+		]
+	}
+]
